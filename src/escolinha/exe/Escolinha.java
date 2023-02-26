@@ -5,7 +5,7 @@ import View.Login;
 
 /**
  *
- * @author Isabel
+ * @author ea.san
  */
 public class Escolinha {
 
