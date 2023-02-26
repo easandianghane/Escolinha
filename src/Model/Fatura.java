@@ -7,7 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * @author Fatura
+ * @author ea.san
  */
 @Entity
 public class Fatura {
