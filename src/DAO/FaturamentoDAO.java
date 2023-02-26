@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 import Model.Fatura;
 
 /**
- * @author Isabel
+ * @author ea.san
  */
 public class FaturamentoDAO {
     public Fatura save(Fatura faturamento) {
