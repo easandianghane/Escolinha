@@ -8,7 +8,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author Isabel
+ * @author ea.san
  */
 @Entity
 public class Funcionario {
