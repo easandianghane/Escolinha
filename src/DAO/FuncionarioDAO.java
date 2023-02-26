@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Isabel
+ * @author ea.san
  */
 public class FuncionarioDAO {
      public Funcionario save(Funcionario usuario) {
