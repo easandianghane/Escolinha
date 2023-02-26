@@ -9,7 +9,7 @@ import javax.persistence.ManyToOne;
 
 /**
  *
- * @author Isabel
+ * @author ea.san
  */
 @Entity
 public class Pagamento {
