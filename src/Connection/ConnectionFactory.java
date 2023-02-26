@@ -11,7 +11,7 @@ import javax.persistence.Persistence;
 
 /**
  *
- * @author Isabel
+ * @author ea.san
  */
 public class ConnectionFactory {
     private static EntityManagerFactory emf = Persistence.createEntityManagerFactory("crud");
