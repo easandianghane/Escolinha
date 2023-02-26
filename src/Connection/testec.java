@@ -8,7 +8,7 @@ package Connection;
 import javax.persistence.EntityManager;
 
 /**
- * @author Isabel
+ * @author ea.san
  */
 public class testec {
 
