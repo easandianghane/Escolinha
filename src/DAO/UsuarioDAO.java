@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 import Model.Usuario;
 
 /**
- * @author Isabel
+ * @author ea.san
  */
 
 public class UsuarioDAO {
