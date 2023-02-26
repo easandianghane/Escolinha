@@ -12,7 +12,7 @@ import Model.Pagamento;
 
 /**
  *
- * @author Isabel
+ * @author ea.san
  */
 public class PagamentoDAO {
     public Pagamento save(Pagamento pagamento) {
